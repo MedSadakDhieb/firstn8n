@@ -1,3 +1,4 @@
+
 /*
   # Create n8n Wiki Schema
 
@@ -19,6 +20,7 @@
     - Add policy for authenticated users to create articles
     - Add policy for authenticated users to update their own articles
     - Add policy for authenticated users to delete their own articles
+    hahahahahah
 */
 
 CREATE TABLE IF NOT EXISTS wiki_articles (
